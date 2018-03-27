@@ -1,1 +1,1 @@
-![Promise.medium.png](Promise.medium.png)
+![Promises.medium.png](Promises.medium.png)
