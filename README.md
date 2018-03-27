@@ -1,2 +1,2 @@
-# Promises
-A promises from Andrew and all members at CCSource.org
+# Promise
+A promise from Andrew and all members at CCSource.org
