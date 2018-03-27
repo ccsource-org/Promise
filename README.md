@@ -1,3 +1,3 @@
-[![Promise.png](Promise.png)](Promise.pdf)
+[![Promise.en.png](Promise.en.png)](Promise.en.pdf)
 ---
-[![Promise.zh.png](Promise.zh.png)](Promise.zh.pdf)
+[![Promise.png](Promise.png)](Promise.pdf)
